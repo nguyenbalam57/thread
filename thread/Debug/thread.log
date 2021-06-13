@@ -1,0 +1,4 @@
+﻿  main.c
+D:\1baitap\IMIC\New folder\thread\thread\main.c(12,62): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\1baitap\IMIC\New folder\thread\thread\main.c(12,58): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  thread.vcxproj -> D:\1baitap\IMIC\New folder\thread\Debug\thread.exe
